@@ -1,20 +1,15 @@
 # Monty Hall – Simulación en Python
 
-Este repositorio contiene una implementación del problema de Monty Hall solicitada en la tarea de Probabilidad y Estadística aplicada.
-
 ## Cómo ejecutar
 
 Usa Windows PowerShell:
 
 ```powershell
-# Ir al directorio del proyecto
-Set-Location "c:\Users\gusta\OneDrive\Desktop\PytonMatematica"
-
 # Ejecutar el script
 python .\monty_hall.py
 ```
 
-Verás una simulación individual y luego resultados para 1.000, 10.000 y 100.000 repeticiones con y sin cambio.
+Vas a ver una simulación individual y luego resultados para 1.000, 10.000 y 100.000 repeticiones con y sin cambio.
 
 ## Resultados esperados (teoría)
 
@@ -34,4 +29,3 @@ Las simulaciones deberían aproximarse a estos valores a medida que aumenta `n`.
 
 - Wikipedia: https://es.wikipedia.org/wiki/Problema_de_Monty_Hall
 - Explainer (en inglés): https://mathworld.wolfram.com/MontyHallProblem.html
-- Artículo divulgativo (ES): https://www.xataka.com/matematicas-y-fisica/problema-monty-hall-paradoja-que-hace-que-sea-mejor-cambiar-puerta
